@@ -47,7 +47,7 @@ package avengers;
  *    2. javac -d bin src/avengers/*.java
  *    3. java -cp bin avengers/LocateTitan locatetitan.in locatetitan.out
  * 
- * @author Yashas Ravi
+ * @author Julia Dymnicki
  * 
  */
 
