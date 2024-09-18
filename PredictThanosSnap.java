@@ -55,7 +55,7 @@ import java.util.Queue;
  *     StdOut.setFile(outputfilename);
  *     StdOut.print(isConnected);
  * 
- * @author Yashas Ravi
+ * @author Julia Dymnicki
  * Compiling and executing:
  *    1. Make sure you are in the ../InfinityWar directory
  *    2. javac -d bin src/avengers/*.java
